@@ -85,7 +85,7 @@ Column _weatherDescription() {
       ),
       Divider(),
       Text(
-        'Ну что - погода хорошая, но весна бывает и обманчивой. Одевайтесь, чтобы ветер вас не простудил.',
+        'Ну вот - погода хорошая, но весна бывает и обманчивой. Одевайтесь, чтобы ветер вас не простудил.',
         style: TextStyle(
             fontSize: 16, color: Colors.black54, fontWeight: FontWeight.bold),
       ),
